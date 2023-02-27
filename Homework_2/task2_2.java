@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
 
 public class task2_2 {
     public static void main(String[] args) {
+        System.out.println("Программа парсит фаил заданной структуры и выводит результат в консоль.\n");
         String file_name = "\\Homework_2\\students.txt";
         String pathProject = System.getProperty("user.dir");
         String pathFile = pathProject.concat(file_name);
@@ -23,9 +24,7 @@ public class task2_2 {
                 line = line.replace("\",\"предмет\":\"", " по предмету ");
                 line = line.replace("\"", "");
                 System.out.println(line);
-            }
-
-            
+            }            
         } catch (Exception e) {
             System.out.println("Ошибка");
         }
