@@ -1,11 +1,9 @@
-package Homework_1;
-
 import java.util.Scanner;
 
 public class task1 {
     public static void main(String[] args) {
         System.out.println("The program makes sum of numbers from 1 to N, and calculates factorial of N\n");
-        System.out.print("Input N:");
+          
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         sc.close();
