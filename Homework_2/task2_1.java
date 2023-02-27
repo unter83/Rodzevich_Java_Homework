@@ -10,7 +10,7 @@ public class task2_1 {
         Scanner sc = new Scanner(System.in);
             String msg = sc.nextLine();
         sc.close();
-        // String msg="6545743347";
+        // String msg="654215743347";
         String msg2 = Sort(msg);
         System.out.println(msg2);
     }
@@ -19,17 +19,15 @@ public class task2_1 {
         StringBuilder new_msg = new StringBuilder();
         char temp;     
         char[] array = msg.toCharArray();
-        for (int i = 0; i < array.length; i++) {
-            for (int j = i + 1; j < array.length; j++) {
+        for (int i = 0; i < array.length; i++)
+            for (int j = i + 1; j < array.length; j++)
                 if (Character.getNumericValue(array[j]) < Character.getNumericValue(array[i])) {
                     temp = array[i];
                     array[i] = array[j];
                     array[j] = temp;
-                }
-            }
-        }
-        for (int k = 0; k < array.length; k++)
-            new_msg.append(array[k]);
+                }      
+        for (char item : array)
+            new_msg.append(item);
 
         return new_msg.toString();
     }
