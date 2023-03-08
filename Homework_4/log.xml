@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T13:47:32</date>
+  <millis>1678272452571</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T13:47:32</date>
+  <millis>1678272452647</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T13:47:32</date>
+  <millis>1678272452648</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>WARNING</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User entered wrong example</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T13:48:56</date>
+  <millis>1678272536060</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T13:48:56</date>
+  <millis>1678272536074</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T13:51:53</date>
+  <millis>1678272713326</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+3</message>
+</record>
+<record>
+  <date>2023-03-08T13:51:53</date>
+  <millis>1678272713342</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T13:52:42</date>
+  <millis>1678272762038</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T13:52:42</date>
+  <millis>1678272762058</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T13:52:50</date>
+  <millis>1678272770887</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered +1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T13:53:16</date>
+  <millis>1678272796347</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 2+2</message>
+</record>
+<record>
+  <date>2023-03-08T13:53:16</date>
+  <millis>1678272796372</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T13:54:22</date>
+  <millis>1678272862154</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T13:54:22</date>
+  <millis>1678272862173</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T13:54:28</date>
+  <millis>1678272868011</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered +2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T13:56:20</date>
+  <millis>1678272980515</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T13:56:20</date>
+  <millis>1678272980528</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T13:56:25</date>
+  <millis>1678272985112</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered +1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T13:57:15</date>
+  <millis>1678273035798</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T13:57:15</date>
+  <millis>1678273035817</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T13:57:17</date>
+  <millis>1678273037934</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered +2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T14:08:00</date>
+  <millis>1678273680265</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T14:08:00</date>
+  <millis>1678273680283</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T14:08:29</date>
+  <millis>1678273709441</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T14:08:29</date>
+  <millis>1678273709460</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T14:08:31</date>
+  <millis>1678273711527</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered +2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T14:08:48</date>
+  <millis>1678273728612</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T14:08:48</date>
+  <millis>1678273728633</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T14:08:49</date>
+  <millis>1678273729972</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered +2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T14:44:10</date>
+  <millis>1678275850379</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T14:44:10</date>
+  <millis>1678275850398</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:18:28</date>
+  <millis>1678277908686</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T15:18:28</date>
+  <millis>1678277908716</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:19:32</date>
+  <millis>1678277972637</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T15:19:32</date>
+  <millis>1678277972652</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:19:59</date>
+  <millis>1678277999912</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T15:19:59</date>
+  <millis>1678277999927</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:20:45</date>
+  <millis>1678278045613</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T15:20:45</date>
+  <millis>1678278045630</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:23:22</date>
+  <millis>1678278202965</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T15:23:22</date>
+  <millis>1678278202981</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T15:23:26</date>
+  <millis>1678278206470</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 3</message>
+</record>
+<record>
+  <date>2023-03-08T15:23:30</date>
+  <millis>1678278210777</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T15:23:33</date>
+  <millis>1678278213818</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T15:23:39</date>
+  <millis>1678278219829</millis>
+  <sequence>5</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T15:23:42</date>
+  <millis>1678278222612</millis>
+  <sequence>6</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:24:17</date>
+  <millis>1678278257664</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+2</message>
+</record>
+<record>
+  <date>2023-03-08T15:24:17</date>
+  <millis>1678278257681</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 3</message>
+</record>
+<record>
+  <date>2023-03-08T15:24:19</date>
+  <millis>1678278259923</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 6</message>
+</record>
+<record>
+  <date>2023-03-08T15:24:22</date>
+  <millis>1678278262517</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T15:24:24</date>
+  <millis>1678278264004</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 8</message>
+</record>
+<record>
+  <date>2023-03-08T15:24:26</date>
+  <millis>1678278266522</millis>
+  <sequence>5</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 16</message>
+</record>
+<record>
+  <date>2023-03-08T15:24:29</date>
+  <millis>1678278269161</millis>
+  <sequence>6</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 8</message>
+</record>
+<record>
+  <date>2023-03-08T15:24:32</date>
+  <millis>1678278272178</millis>
+  <sequence>7</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 16</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:25:38</date>
+  <millis>1678278338162</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+9</message>
+</record>
+<record>
+  <date>2023-03-08T15:25:38</date>
+  <millis>1678278338178</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 10</message>
+</record>
+<record>
+  <date>2023-03-08T15:25:41</date>
+  <millis>1678278341667</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 19</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:26:56</date>
+  <millis>1678278416487</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+9</message>
+</record>
+<record>
+  <date>2023-03-08T15:26:56</date>
+  <millis>1678278416504</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 10</message>
+</record>
+<record>
+  <date>2023-03-08T15:27:04</date>
+  <millis>1678278424974</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 19</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:28:50</date>
+  <millis>1678278530938</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T15:28:50</date>
+  <millis>1678278530964</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T15:28:55</date>
+  <millis>1678278535307</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T15:29:11</date>
+  <millis>1678278551329</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 1</message>
+</record>
+<record>
+  <date>2023-03-08T15:29:16</date>
+  <millis>1678278556612</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 1</message>
+</record>
+<record>
+  <date>2023-03-08T15:29:18</date>
+  <millis>1678278558277</millis>
+  <sequence>5</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 1</message>
+</record>
+<record>
+  <date>2023-03-08T15:29:20</date>
+  <millis>1678278560066</millis>
+  <sequence>6</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 1</message>
+</record>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:38:56</date>
+  <millis>1678279136796</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T15:38:56</date>
+  <millis>1678279136810</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T15:38:58</date>
+  <millis>1678279138867</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 3</message>
+</record>
+<record>
+  <date>2023-03-08T15:39:01</date>
+  <millis>1678279141080</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T15:39:03</date>
+  <millis>1678279143584</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T15:39:12</date>
+  <millis>1678279152324</millis>
+  <sequence>5</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 3</message>
+</record>
+<record>
+  <date>2023-03-08T15:39:17</date>
+  <millis>1678279157924</millis>
+  <sequence>6</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T15:40:05</date>
+  <millis>1678279205697</millis>
+  <sequence>7</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 5</message>
+</record>
+<record>
+  <date>2023-03-08T15:40:22</date>
+  <millis>1678279222225</millis>
+  <sequence>8</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T15:40:27</date>
+  <millis>1678279227062</millis>
+  <sequence>9</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 5</message>
+</record>
+<record>
+  <date>2023-03-08T15:40:31</date>
+  <millis>1678279231080</millis>
+  <sequence>10</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 6</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:41:17</date>
+  <millis>1678279277163</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+2</message>
+</record>
+<record>
+  <date>2023-03-08T15:41:17</date>
+  <millis>1678279277181</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 3</message>
+</record>
+<record>
+  <date>2023-03-08T15:41:20</date>
+  <millis>1678279280358</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 5</message>
+</record>
+<record>
+  <date>2023-03-08T15:41:33</date>
+  <millis>1678279293693</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 7</message>
+</record>
+<record>
+  <date>2023-03-08T15:41:37</date>
+  <millis>1678279297932</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:42:36</date>
+  <millis>1678279356021</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 4+6</message>
+</record>
+<record>
+  <date>2023-03-08T15:42:36</date>
+  <millis>1678279356040</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 10</message>
+</record>
+<record>
+  <date>2023-03-08T15:42:39</date>
+  <millis>1678279359127</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 16</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:43:38</date>
+  <millis>1678279418378</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 6+4</message>
+</record>
+<record>
+  <date>2023-03-08T15:43:38</date>
+  <millis>1678279418403</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 10</message>
+</record>
+<record>
+  <date>2023-03-08T15:43:41</date>
+  <millis>1678279421183</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 14</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:44:29</date>
+  <millis>1678279469882</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 2+6</message>
+</record>
+<record>
+  <date>2023-03-08T15:44:29</date>
+  <millis>1678279469899</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 8</message>
+</record>
+<record>
+  <date>2023-03-08T15:44:33</date>
+  <millis>1678279473049</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 13</message>
+</record>
+<record>
+  <date>2023-03-08T15:44:45</date>
+  <millis>1678279485328</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 8</message>
+</record>
+<record>
+  <date>2023-03-08T15:44:48</date>
+  <millis>1678279488809</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 16</message>
+</record>
+<record>
+  <date>2023-03-08T15:44:52</date>
+  <millis>1678279492555</millis>
+  <sequence>5</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 10</message>
+</record>
+<record>
+  <date>2023-03-08T15:44:56</date>
+  <millis>1678279496101</millis>
+  <sequence>6</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:47:12</date>
+  <millis>1678279632612</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T15:47:12</date>
+  <millis>1678279632640</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T15:47:15</date>
+  <millis>1678279635747</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T15:47:25</date>
+  <millis>1678279645620</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 19</message>
+</record>
+<record>
+  <date>2023-03-08T15:47:31</date>
+  <millis>1678279651961</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 9.5</message>
+</record>
+<record>
+  <date>2023-03-08T15:47:37</date>
+  <millis>1678279657409</millis>
+  <sequence>5</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 47.5</message>
+</record>
+<record>
+  <date>2023-03-08T15:47:50</date>
+  <millis>1678279670402</millis>
+  <sequence>6</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 47.5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T15:51:34</date>
+  <millis>1678279894094</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T15:51:34</date>
+  <millis>1678279894113</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T15:51:35</date>
+  <millis>1678279895983</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>ShowResult</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:01:07</date>
+  <millis>1678280467810</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 4*2</message>
+</record>
+<record>
+  <date>2023-03-08T16:01:07</date>
+  <millis>1678280467830</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 8</message>
+</record>
+<record>
+  <date>2023-03-08T16:01:16</date>
+  <millis>1678280476393</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 20</message>
+</record>
+<record>
+  <date>2023-03-08T16:01:22</date>
+  <millis>1678280482915</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 10</message>
+</record>
+<record>
+  <date>2023-03-08T16:01:29</date>
+  <millis>1678280489071</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 20</message>
+</record>
+<record>
+  <date>2023-03-08T16:01:44</date>
+  <millis>1678280504246</millis>
+  <sequence>5</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 600</message>
+</record>
+<record>
+  <date>2023-03-08T16:01:51</date>
+  <millis>1678280511769</millis>
+  <sequence>6</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 20</message>
+</record>
+<record>
+  <date>2023-03-08T16:01:56</date>
+  <millis>1678280516958</millis>
+  <sequence>7</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 40</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:02:56</date>
+  <millis>1678280576767</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 5*2</message>
+</record>
+<record>
+  <date>2023-03-08T16:02:56</date>
+  <millis>1678280576794</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 10</message>
+</record>
+<record>
+  <date>2023-03-08T16:03:00</date>
+  <millis>1678280580845</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 9</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:03:11</date>
+  <millis>1678280591985</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 12-2</message>
+</record>
+<record>
+  <date>2023-03-08T16:03:12</date>
+  <millis>1678280592003</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 10</message>
+</record>
+<record>
+  <date>2023-03-08T16:03:15</date>
+  <millis>1678280595282</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 1000</message>
+</record>
+<record>
+  <date>2023-03-08T16:03:19</date>
+  <millis>1678280599612</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 10</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:04:35</date>
+  <millis>1678280675240</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T16:04:35</date>
+  <millis>1678280675259</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:11:03</date>
+  <millis>1678281063748</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T16:11:03</date>
+  <millis>1678281063780</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T16:11:07</date>
+  <millis>1678281067278</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T16:11:10</date>
+  <millis>1678281070124</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:13:25</date>
+  <millis>1678281205731</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+2</message>
+</record>
+<record>
+  <date>2023-03-08T16:13:25</date>
+  <millis>1678281205751</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 3</message>
+</record>
+<record>
+  <date>2023-03-08T16:13:27</date>
+  <millis>1678281207524</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 6</message>
+</record>
+<record>
+  <date>2023-03-08T16:13:31</date>
+  <millis>1678281211371</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:14:28</date>
+  <millis>1678281268768</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 10+2</message>
+</record>
+<record>
+  <date>2023-03-08T16:14:28</date>
+  <millis>1678281268791</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 12</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:15:28</date>
+  <millis>1678281328971</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T16:15:28</date>
+  <millis>1678281328989</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T16:15:30</date>
+  <millis>1678281330734</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T16:15:33</date>
+  <millis>1678281333337</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T16:15:35</date>
+  <millis>1678281335868</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 18</message>
+</record>
+<record>
+  <date>2023-03-08T16:15:39</date>
+  <millis>1678281339760</millis>
+  <sequence>5</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:17:28</date>
+  <millis>1678281448670</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+2</message>
+</record>
+<record>
+  <date>2023-03-08T16:17:28</date>
+  <millis>1678281448687</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 3</message>
+</record>
+<record>
+  <date>2023-03-08T16:17:30</date>
+  <millis>1678281450663</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 6</message>
+</record>
+<record>
+  <date>2023-03-08T16:17:34</date>
+  <millis>1678281454737</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-08T16:19:05</date>
+  <millis>1678281545258</millis>
+  <sequence>0</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>user entered 1+1</message>
+</record>
+<record>
+  <date>2023-03-08T16:19:05</date>
+  <millis>1678281545273</millis>
+  <sequence>1</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T16:19:07</date>
+  <millis>1678281547113</millis>
+  <sequence>2</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T16:19:09</date>
+  <millis>1678281549523</millis>
+  <sequence>3</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 12</message>
+</record>
+<record>
+  <date>2023-03-08T16:19:12</date>
+  <millis>1678281552784</millis>
+  <sequence>4</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T16:19:15</date>
+  <millis>1678281555140</millis>
+  <sequence>5</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Deleting last example. Current result = 2</message>
+</record>
+<record>
+  <date>2023-03-08T16:19:25</date>
+  <millis>1678281565377</millis>
+  <sequence>6</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Result = 4</message>
+</record>
+<record>
+  <date>2023-03-08T16:19:33</date>
+  <millis>1678281573798</millis>
+  <sequence>7</sequence>
+  <logger>Homework_4.task4_3</logger>
+  <level>INFO</level>
+  <class>Homework_4.task4_3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User exits the program</message>
+</record>
+</log>

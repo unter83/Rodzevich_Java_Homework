@@ -51,7 +51,9 @@ public class task4_2 {
                     break;                    
                 }
             }
-        }   
+            sc.close();
+        } 
+         
 
     }
 

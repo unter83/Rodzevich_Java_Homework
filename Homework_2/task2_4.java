@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class task2_4 {
     public static void main(String[] args) throws IOException {
-        System.out.println("Простой калькулятор на 1 действие c логгированием\n");
+        System.out.println("Простой калькулятор на 1 действие c логированием\n");
 
         Logger logger = Logger.getLogger(task2_4.class.getName());
         logger.setLevel(Level.INFO);
@@ -22,7 +22,7 @@ public class task2_4 {
         sc.close();       
         
         
-       boolean isok = false;
+        boolean isok = false;
         int sign = 0;
         example = example.replace(" ", "");        
         for (int i = 0; i < example.length(); i++) {
@@ -66,6 +66,7 @@ public class task2_4 {
                     result =  val_1 * val_2;
                     break;               
             }
+            
             if ((result - (int) result) == 0) {
                 System.out.printf("\nОтвет = %d\n", (int) result); 
                 logger.info("Result = " + (int) result); 
