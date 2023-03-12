@@ -59,7 +59,6 @@ public class task5_1 {
         String pathFile = pathProject.concat(file_name);
         File file = new File(pathFile);
         if (file.isFile()) {
-            // System.out.printf("Фаил %s найден. \n", pathFile);
             boolean exit = false;
             Scanner sc2 = new Scanner(System.in, "cp866");
             Map<Integer, String> db = new HashMap<Integer, String>();
@@ -116,7 +115,7 @@ public class task5_1 {
                                 }
                                 writer.close();
                             } catch (Exception e) {
-                                // TODO: handle exception
+                                System.out.println("Ошибка");
                             }
 
                         } else {
@@ -127,8 +126,6 @@ public class task5_1 {
                         System.out.println("Номер телефона должен только цифры");
                         exit2 = false;
                     }
-                    // System.out.println(db);
-                    // System.out.println(db2);
                 }
             }
         } else
