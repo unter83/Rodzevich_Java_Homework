@@ -13,7 +13,6 @@ import java.util.HashMap;
 import java.util.InputMismatchException;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.TreeMap;
 
 public class task5_1 {
     public static void main(String[] args) {
