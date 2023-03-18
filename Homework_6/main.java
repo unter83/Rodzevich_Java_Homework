@@ -12,19 +12,26 @@ public class main {
     public static void main(String[] args) {
         System.out.println("\n Програма реализует базу ноутбуков");
 
-        notebooks n1 = new notebooks("Cortana", "MSI", 16, 1024, 15, "Windows");
-        notebooks n2 = new notebooks("Aspire", "Acer", 8, 1024, 17, "Linux");
-        notebooks n3 = new notebooks("Magicbook", "Honor", 32, 2048, 17, "Linux");
-        notebooks n4 = new notebooks("MateBook", "HUAWEI", 8, 2048, 15, "Linux");
-        notebooks n5 = new notebooks("RedmiBook", "Xiaomi", 12, 512, 15, "Windows");
-        notebooks n6 = new notebooks("Macbook", "Apple", 12, 2048, 15, "IOS");
+        notebooks n1 = new notebooks("Cortana", "MSI", 16, 1024, 15, "Windows", "red");
+        notebooks n2 = new notebooks("Aspire", "Acer", 8, 1024, 17, "Linux", "black");
+        notebooks n3 = new notebooks("Magicbook", "Honor", 32, 2048, 17, "Linux", "black");
+        notebooks n4 = new notebooks("MateBook", "HUAWEI", 8, 2048, 15, "Linux", "black");
+        notebooks n5 = new notebooks("RedmiBook", "Xiaomi", 12, 512, 15, "Windows", "black");
+        notebooks n6 = new notebooks("Macbook", "Apple", 12, 2048, 15, "IOS", "grey");
         
         ArrayList n_list = new ArrayList<notebooks>(Arrays.asList(n1, n2, n3, n4, n5, n6));
 
         boolean exit = false;   
         
         while(!exit) {
+            //Map<Integer, String> map_n = new TreeMap<>();
             
+            if (n_list.isEmpty()) {
+                System.out.println("Все раскупили :(");
+                System.exit(0);
+            }
+
+
             for (Object itemObject : n_list) {
                 System.out.println(itemObject.toString());
             }
@@ -34,7 +41,8 @@ public class main {
             System.out.println("1 - ОЗУ");
             System.out.println("2 - Объем жесткого диска");
             System.out.println("3 - Операционная систем");
-            System.out.println("4 - Выход\n");               
+            System.out.println("4 - Цвет");
+            System.out.println("5 - Выход\n");               
             System.out.print("Выберите опцию для сортировки: ");
             try {
                 int ch = sc.nextInt();                
@@ -50,6 +58,9 @@ public class main {
                         ChooseOS(n_list);                        
                         break;
                     case 4:
+                        ChooseColor(n_list);                        
+                        break;
+                    case 5:
                         exit = true;
                         System.out.println("Выходим...");                      
                         break;
@@ -129,13 +140,74 @@ public class main {
         
     }
 
+    public static void ChooseColor(ArrayList n_list) {
+        System.out.println();
+        
+        System.out.println("Сортировка по цветам ноутбуков. ");
+        boolean exit = false;
+        while(!exit) {
+            System.out.print("Выберите цвет: ");
+            try {
+                String ch2;
+                Scanner sc2 = new Scanner(System.in);
+                ch2 = sc2.next();                
+                if (ShowColors(n_list, ch2))
+                    exit = true;                
+
+            } catch (InputMismatchException e) {
+                    System.out.println("Неправильное значение!");                    
+            }  
+         
+        }
+        
+    }
+
     public static boolean ShowOS(ArrayList n_list, String os) {
         Map<Integer, String> map_n = new TreeMap<>();
         for (Object item : n_list) {
             if (((notebooks) item).getOS().equals(os) 
                 || ((notebooks) item).getOS().toLowerCase().equals(os) 
                 || os.toLowerCase().equals(((notebooks) item).getOS().equals(os))) { 
-                      
+
+                System.out.println(item.toString());             
+                map_n.put(((notebooks) item).getId(), ((notebooks) item).toStringwoID());
+            }  
+        }
+        
+        if (map_n.isEmpty()) {
+            System.out.println("\nНоутбуки не найдены");
+            return false;
+        }          
+          
+        boolean exit = false;
+        while (!exit)
+        try {
+            Scanner sc3 = new Scanner(System.in);
+            System.out.print("Выберите ноутбук: ");
+            int ch3 = sc3.nextInt();
+            if (map_n.containsKey(ch3)) {
+                if (BuyNotebook()) {
+                    System.out.println("\nВы приобрели ноутук - " + map_n.get(ch3) + "\n"); 
+                    System.out.println("Возвращаемся к основному меню.\n");                        
+                    return true;
+                }
+            }
+            else {
+                System.out.println("Ноутбук не найден."); 
+            }                        
+        } catch (InputMismatchException e) {
+            System.out.println("Неправильное значение. Выберите один из номеров ноутбука.");
+        }
+        return false;
+    }
+
+    public static boolean ShowColors(ArrayList n_list, String os) {
+        Map<Integer, String> map_n = new TreeMap<>();
+        for (Object item : n_list) {
+            if (((notebooks) item).getColor().equals(os) 
+                || ((notebooks) item).getColor().toLowerCase().equals(os) 
+                || os.toLowerCase().equals(((notebooks) item).getColor().equals(os))) { 
+
                 System.out.println(item.toString());             
                 map_n.put(((notebooks) item).getId(), ((notebooks) item).toStringwoID());
             }  
@@ -155,7 +227,7 @@ public class main {
             boolean ok = false;
             if (map_n.containsKey(ch3)) {
                 if (BuyNotebook()) {
-                    System.out.println("\nВы приобрели ноутук - " + map_n.get(ch3) + "\n");  
+                    System.out.println("\nВы приобрели ноутук - " + map_n.get(ch3) + "\n"); 
                     System.out.println("Возвращаемся к основному меню.\n");                        
                     return true;
                 }
@@ -168,8 +240,6 @@ public class main {
         }
         return false;
     }
-
-
 
     public static boolean ShowRam(ArrayList n_list, int ram) {
         Map<Integer, String> map_n = new TreeMap<>();
@@ -190,11 +260,11 @@ public class main {
         try {
             Scanner sc3 = new Scanner(System.in);
             System.out.print("Выберите ноутбук: ");
-            int ch3 = sc3.nextInt();
-            boolean ok = false;
+            int ch3 = sc3.nextInt();           
             if (map_n.containsKey(ch3)) {
                 if (BuyNotebook()) {
-                    System.out.println("\nВы приобрели ноутук - " + map_n.get(ch3) + "\n");  
+                    System.out.println("\nВы приобрели ноутук - " + map_n.get(ch3) + "\n");
+
                     System.out.println("Возвращаемся к основному меню.\n");                        
                     return true;
                 }
@@ -231,7 +301,8 @@ public class main {
             boolean ok = false;
             if (map_n.containsKey(ch3)) {
                 if (BuyNotebook()) {
-                    System.out.println("\nВы приобрели ноутук - " + map_n.get(ch3) + "\n");  
+                    System.out.println("\nВы приобрели ноутук - " + map_n.get(ch3) + "\n");
+ 
                     System.out.println("Возвращаемся к основному меню.\n");                        
                     return true;
                 }
